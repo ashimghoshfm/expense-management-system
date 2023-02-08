@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #212529;
+}
+
+.navbar a {
+  color: white;
+  font-weight: 600;
+  font-size: 1.3em;
+  margin-right: 10px;
+}
+
+.navbar a:hover {
+  color: aqua;
+}
+.navbar-toggler {
+  color: #212529;
+  background-color: white;
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  margin-top: 270px;
+}
